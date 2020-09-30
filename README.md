@@ -1,7 +1,7 @@
 # Movie-Trailer-Website
 
 The server-side code is written in Python and the data is then served to a web page using
-HTML, CSS.
+HTML and CSS.
 
 ## What it is and does
 
@@ -10,7 +10,7 @@ a number of movies. Click on a movie poster to play its trailer.
 
 ## How to Run Project
 
-Download the project zip file to you computer and unzip the file. Or clone this
+Download the project zip file to your computer and unzip the file. Or clone this
 repository to your desktop.
 
 Open the text-based interface for your operating system (e.g. the terminal
@@ -22,4 +22,4 @@ Navigate to the project directory and type in the following command:
 python media.py
 ```
 
-Your default browser should launch a new tab displaying the movie trailer website.
+Your default browser will launch a new tab displaying the movie trailer website.
